@@ -4,7 +4,7 @@ const date= require(__dirname + "/date.js");
 const mongoose = require("mongoose");
 const _ = require("lodash");
 
-const app=express();
+const app=express();   
 app.set("view engine", "ejs");
 app.use(bodyparser.urlencoded({extended:true}));
 app.use(express.static(__dirname + '/Public/'));
