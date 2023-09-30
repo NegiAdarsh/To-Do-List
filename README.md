@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/NegiAdarsh/Student-Help-Portal.git
+   git clone https://github.com/NegiAdarsh/to-do-list.git
    cd Student-Help-Portal
 2. **Install dependencies**:
 
